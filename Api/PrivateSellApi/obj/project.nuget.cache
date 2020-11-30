@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DesHWSGXagNdPpjO7QOJfUCuLbS480QOpvciAyEXl/IhNSraslC7Eh7zLX3gOTLcRTxUK3HzEg5/44tSGSnTtg==",
+  "dgSpecHash": "3jbQcYmtrq3EB6j3IYhllbW3srYEby4bsbdpImPp9XmB/nv/SqjPWU0RayjWA51FtYFzIx6ikHr2LtexBj7lEg==",
   "success": true,
-  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj",
+  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj",
   "expectedPackageFiles": [
     "/Users/michael.pantalleresc/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/michael.pantalleresc/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"

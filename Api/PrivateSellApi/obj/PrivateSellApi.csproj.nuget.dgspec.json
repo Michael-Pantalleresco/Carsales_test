@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj": {}
+    "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj": {}
   },
   "projects": {
-    "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj": {
+    "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj",
+        "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj",
         "projectName": "PrivateSellApi",
-        "projectPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj",
+        "projectPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj",
         "packagesPath": "/Users/michael.pantalleresc/.nuget/packages/",
-        "outputPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/obj/",
+        "outputPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/michael.pantalleresc/.nuget/NuGet/NuGet.Config"
         ],

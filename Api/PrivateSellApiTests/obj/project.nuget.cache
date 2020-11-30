@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/bVCC4d3azTOV6qm5u5EfA8VcFBoswvtK8+PZ3VU5AtVQkwPOSAeNVif5L+fuAQYclXJeJIzV/hPscExBdiBQ==",
+  "dgSpecHash": "DRTVmwRmDNouJQda2PH6qo7gB22gv+63Quqomizd5ozpTyoTEB90pM++fGtdfjFUW7Z30YuhOWPn6GH5wktuag==",
   "success": true,
-  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
+  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
   "expectedPackageFiles": [
     "/Users/michael.pantalleresc/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/michael.pantalleresc/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",

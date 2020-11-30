@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVfiv5u5UAIXIcgrk8jN8JNVFBDuJD6iMz+yl/eNxWR3w5B0VRVZYvjbqsCwjnUCaIbiL/jsEQqiXerCg3TC1A==",
+  "dgSpecHash": "6RGFtYD3DjPKMdzR/v2+uWqoSviIvQA+xamS5Gn2YJgQFgn2ZO2CHl8rvAWjqQdXb+ME5GTQDhf8g3JNpngqdw==",
   "success": true,
-  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellAcceptanceTests/PrivateSellAcceptanceTests.csproj",
+  "projectFilePath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellAcceptanceTests/PrivateSellAcceptanceTests.csproj",
   "expectedPackageFiles": [
     "/Users/michael.pantalleresc/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/michael.pantalleresc/.nuget/packages/fluentassertions/6.0.0-alpha0001/fluentassertions.6.0.0-alpha0001.nupkg.sha512",

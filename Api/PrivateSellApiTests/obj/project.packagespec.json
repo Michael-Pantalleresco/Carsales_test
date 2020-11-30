@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
+    "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
     "projectName": "PrivateSellApiTests",
-    "projectPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
-    "outputPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/obj/",
+    "projectPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
+    "outputPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -15,8 +18,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj": {
-            "projectPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj"
+          "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj": {
+            "projectPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj"
           }
         }
       }

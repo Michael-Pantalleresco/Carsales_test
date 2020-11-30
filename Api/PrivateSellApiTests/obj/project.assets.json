@@ -6143,17 +6143,21 @@
     ]
   },
   "packageFolders": {
-    "/Users/michael.pantalleresc/.nuget/packages/": {}
+    "/Users/michael.pantalleresc/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
+      "projectUniqueName": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
       "projectName": "PrivateSellApiTests",
-      "projectPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
+      "projectPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/PrivateSellApiTests.csproj",
       "packagesPath": "/Users/michael.pantalleresc/.nuget/packages/",
-      "outputPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApiTests/obj/",
+      "outputPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApiTests/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/michael.pantalleresc/.nuget/NuGet/NuGet.Config"
       ],
@@ -6166,8 +6170,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj": {
-              "projectPath": "/Users/michael.pantalleresc/RiderProjects/PrivateSell/Michael.Pantalleresco/Api/PrivateSellApi/PrivateSellApi.csproj"
+            "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj": {
+              "projectPath": "/Users/michael.pantalleresc/RiderProjects/Carsales_test/Api/PrivateSellApi/PrivateSellApi.csproj"
             }
           }
         }
