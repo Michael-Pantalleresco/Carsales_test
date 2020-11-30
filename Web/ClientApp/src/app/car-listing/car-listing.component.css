@@ -1,0 +1,47 @@
+a {
+  color: black;
+  text-decoration:none;
+}
+
+.car-listing-card {
+  background-color: white;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.car-listing-info {
+  display: inline-flex;
+  width: 100%;
+  padding: 20px;
+}
+.car-listing-image {
+  align-content: center;
+  padding:20px;
+}
+
+.car-listing-image img {
+  width:100%;
+}
+
+.car-listing-title {
+  font-size: 24px;
+}
+
+.car-listing-price {
+  font-size: 24px;
+  text-align: right;
+}
+
+.car-listing-details {
+  padding: 20px;
+  width: 100%;
+}
+
+.car-listing-details-list ul {
+  display: inline-block;
+}
+
+.car-listing-details-list li {
+  display: inline-block;
+  padding:10px;
+}

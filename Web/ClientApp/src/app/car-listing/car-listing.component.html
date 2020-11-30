@@ -1,0 +1,19 @@
+<div class="car-listing-card">
+  <div class="car-listing-image"><img src="{{listing.heroImage}}" alt=""> </div>
+  <div class="car-listing-info">
+    <div class="car-listing-title col-6"><a [routerLink]="['/details/' + listing.advertId]">{{listing.title}}</a> </div>
+    <div class="car-listing-price col-6">
+      ${{listing.price}}
+    </div>
+  </div>
+  <div class="car-listing-details">
+    <ul class="car-listing-details-list">
+      <li class="col-4"><b>Type: </b> {{listing.vertical}}</li>
+      <li class="col-4"><b>Created On:</b> {{listing.dateCreated | date}}</li>
+      <li class="col-4"><b>Last Updated:</b> {{listing.dateLastUpdated | date}}</li>
+    </ul>
+    <app-button [routerLink]="['/details/' + listing.advertId]" [text]="'More Details'"></app-button>
+  </div>
+</div>
+
+<div *ngIf="!listing">Loading...</div>

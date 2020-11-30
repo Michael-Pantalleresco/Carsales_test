@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  static-analysis:
+    build:
+      context: ./
+      dockerfile: Dockerfile-build
+    working_dir: /app
+    command: bash -c "dotnet build PrivateSellApi/PrivateSellApi.csproj"
+
+  unit-test:
+    build:
+      context: ./
+      dockerfile: Dockerfile-build
+    working_dir: /app
+    command:
+      bash -c "dotnet test PrivateSellApiTests/PrivateSellApiTests.csproj"
+    

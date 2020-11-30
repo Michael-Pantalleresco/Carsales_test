@@ -1,0 +1,10 @@
+p {
+  font-size: 24px;
+  padding-bottom: 5px;
+}
+
+.comments {
+  margin: 10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}

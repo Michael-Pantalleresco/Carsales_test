@@ -1,0 +1,37 @@
+
+<div class="car-listing col-8">
+
+<div class="car-listing-card">
+    <div class="car-listing-image">
+      <img src="{{vehicle.heroImage}}" alt="">
+    </div>
+    <div class="car-listing-info">
+      <div class="car-listing-title col-6">{{vehicle.title}}</div>
+      <div class="car-listing-price col-6">
+        ${{vehicle.price}}
+      </div>
+    </div>
+    <div class="car-listing-details">
+      <ul class="car-listing-details-list">
+        <li class="col-4"><b>Type:</b> {{vehicle.vertical}}</li>
+        <li class="col-4"><b>Created On:</b> {{vehicle.dateCreated | date}}</li>
+        <li class="col-4"><b>Last Updated:</b> {{vehicle.dateLastUpdated | date}}</li>
+        <li class="col-4"><b>Make:</b> {{vehicle.make}}</li>
+        <li class="col-4"><b>Model:</b> {{vehicle.model}}</li>
+        <li class="col-4"><b>Odometer</b> {{vehicle.odometer}}</li>
+        <li class="col-4"><b>Year</b> {{vehicle.year}}</li>
+        <li class="col-4"><b>Exterior</b> {{vehicle.colorExterior}}</li>
+        <li class="col-4"><b>Interior</b> {{vehicle.colorInterior}}</li>
+        <li class="col-4"><b>Registration</b> {{vehicle.registration}}</li>
+        <li class="col-4"><b>Registration Exipry</b> {{vehicle.registrationExpiryMonth}}/{{vehicle.registrationExpiryYear}}</li>
+      </ul>
+    </div>
+    <app-seller [seller]="vehicle.seller"></app-seller>
+    <app-comments [comment]="vehicle.comments"></app-comments>
+  <div>
+    <app-button [routerLink]="'/adverts'" [text]="'Back'"></app-button>
+  </div>
+  </div>
+</div>
+
+<div *ngIf="!vehicle">Loading...</div>

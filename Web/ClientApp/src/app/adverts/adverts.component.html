@@ -1,0 +1,11 @@
+<div class="heading">
+  Carsales Vehicle Search
+</div>
+<div class="car-listing-total">
+  {{adverts.length}} vehicles for sale in Australia
+</div>
+<div class="car-listing col-6" *ngFor="let advert of adverts">
+  <app-car-listing [listing]="advert"></app-car-listing>
+</div>
+
+<div *ngIf="!adverts">Loading...</div>
